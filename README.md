@@ -1,5 +1,5 @@
 # Quest Journal Theme
-A simple, lightweight theme for Obsidian inspired by quest journals.Whether you're doing a D&D campaign or recording your life's adventures, Quest Journal Theme immerses you in that adventurous spirit.
+A simple, lightweight theme for Obsidian inspired by quest journals. Whether you're doing a D&D campaign or recording your life's adventures, Quest Journal Theme immerses you in that adventurous spirit.
 
 # Overview
 
@@ -32,3 +32,5 @@ Quest Journal transforms your Obsidian vault into an artifact from a fantasy wor
 5. Select Quest Journal in Obsidian Settings > Appearance.
 
 >Created by Jack Lockwood
+>
+>Utilized code as inspiration for this theme from **Tech001** (by Roman Volodin, [Github](https://github.com/volodinroman/obsidian-tech001-theme) under GNUv2, thus this is licensed under GNUv2 to comply) and **ITS Theme** (by SlRvb, [Github](https://github.com/SlRvb/Obsidian--ITS-Theme.git) under MIT license)
